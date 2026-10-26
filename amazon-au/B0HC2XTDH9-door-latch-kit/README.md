@@ -1,3 +1,5 @@
+> 此目录为旧版 V1，保留作历史对比。请使用[以白底实物图和 1688 为准的新版 V2](../door-latch-kit-v2-supplier-photo/)。
+
 # Amazon AU — Door Latch Mortise Jig 素材
 
 - [下载完整素材包 ZIP](Amazon_AU_Door_Latch_Assets.zip)（打开后点击 Download raw file）

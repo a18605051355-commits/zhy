@@ -1,0 +1,146 @@
+[
+  {
+    "filename": "01_main_white_actual_kit.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "bytes": 441931,
+    "sha256": "9c7b73c1db45a7075cb1174ccf1ce63a3eef4be9256dd62b718304912788cdcb"
+  },
+  {
+    "filename": "02_latch_recess_guide.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "bytes": 841914,
+    "sha256": "21ba5b853c038fd1fb680d6c2f9c0e3ca1838c556f9bb84a378964f0a979466b"
+  },
+  {
+    "filename": "03_actual_aluminium_body.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "bytes": 930380,
+    "sha256": "b5abe5d8f7af7866e695d2d44b656dc3937d469288c878b1baf20a2eb0ab29f5"
+  },
+  {
+    "filename": "04_actual_clamp_detail.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "bytes": 951542,
+    "sha256": "e2408746c9f8166cf3ac8e1538e329411c48b28cba3e1794963b7d1702d7796f"
+  },
+  {
+    "filename": "05_actual_routing_aperture.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "bytes": 814903,
+    "sha256": "608fd3c31993c1ae7740449a33a0620b7916d3afe716be9c18aba21abab09790"
+  },
+  {
+    "filename": "06_actual_five_piece_kit.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "bytes": 786914,
+    "sha256": "ed543aeddeabb68786941ac634f8f4c6de0773b97880ae7fec95a00e062ebc85"
+  },
+  {
+    "filename": "07_seller_body_dimensions.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "bytes": 850520,
+    "sha256": "db19019bd36918624b93024696753e4ba5873094eace86534e29ee3a5ff52966"
+  },
+  {
+    "filename": "08_detail_white_hero.jpg",
+    "width": 1940,
+    "height": 1200,
+    "mode": "RGB",
+    "source_generated_size": [
+      1594,
+      987
+    ],
+    "bytes": 542847,
+    "sha256": "f93c93c5ac680392ab5bb7b3051c6a91d101e1cc7ea8023f88d3802fd6cc73e0"
+  },
+  {
+    "filename": "09_detail_actual_build.jpg",
+    "width": 1940,
+    "height": 1200,
+    "mode": "RGB",
+    "source_generated_size": [
+      1594,
+      987
+    ],
+    "bytes": 663960,
+    "sha256": "e437860d60492e7042cc91217a5e182c40b7366cca843fa82d0a960e66de27e7"
+  },
+  {
+    "filename": "10_detail_compatibility.jpg",
+    "width": 1940,
+    "height": 1200,
+    "mode": "RGB",
+    "source_generated_size": [
+      1594,
+      986
+    ],
+    "bytes": 624882,
+    "sha256": "1c2eeef1eadd66887955bd9a14d264108dd8e184bc9707b818594bb37d8ec697"
+  },
+  {
+    "filename": "11_detail_actual_accessories.jpg",
+    "width": 1940,
+    "height": 1200,
+    "mode": "RGB",
+    "source_generated_size": [
+      1594,
+      987
+    ],
+    "bytes": 628036,
+    "sha256": "375e075b0af168b1cd6160b343f8508ff56e27351ddffd02ef11d17b35c1424f"
+  },
+  {
+    "filename": "12_detail_setup_checks.jpg",
+    "width": 1940,
+    "height": 1200,
+    "mode": "RGB",
+    "source_generated_size": [
+      1594,
+      987
+    ],
+    "bytes": 619180,
+    "sha256": "241ff20281a18d93cf00549244d00b046d1b34275bdcb70fdb16818ab50da971"
+  }
+]

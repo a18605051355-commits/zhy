@@ -1,0 +1,74 @@
+[
+  {
+    "file": "01_main_white.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "2992cfa3667bb2bc3ff2d6296cded2103ffcf8d4f88cd6455d07cb1e11db70ba"
+  },
+  {
+    "file": "02_hook_side.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "b8ff4ea2191b56758696a61594da0d441e41efe6effcce0522845784bd427226"
+  },
+  {
+    "file": "03_ball_front.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "4b65a884ed514e85864e7719f70924ab65304bb9f1c6bf3e9370cdc666b628dc"
+  },
+  {
+    "file": "04_thread_overhead.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "9928b8dbd49087b9061ab79b7391aaafea2f9dbb6666be4e23853df512b37018"
+  },
+  {
+    "file": "05_pouch_scene.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "56b8b5f2258b12d72bebd9e52a8aa41d8b8e7a5dc01d2e2155a87ed4e3c935a0"
+  },
+  {
+    "file": "06_holder_scene.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "b47bb08a97804c71007b36452afd9d8987fce8630bcd9db5736615a6d38109f3"
+  },
+  {
+    "file": "07_connection_specs.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "1d2e27a73645ab101119eb0b7dd186055e6c54cfa32df485b29113f164b706c2"
+  },
+  {
+    "file": "08_detail_hero.jpg",
+    "width": 1940,
+    "height": 1200,
+    "sha256": "a92375ce1a68d3615f56c8fe50af2dcddf4910d77f258f89b0903b8aca96c556"
+  },
+  {
+    "file": "09_detail_two_functions.jpg",
+    "width": 1940,
+    "height": 1200,
+    "sha256": "a9861590b4fc006fe48a16b459a6a611d15f615d051f7c866a9282377e173b9b"
+  },
+  {
+    "file": "10_detail_install_check.jpg",
+    "width": 1940,
+    "height": 1200,
+    "sha256": "1cd14c56766565b1f9d3b31abeeeaa357362fd0d592770a0c4ec3d5b62ddcf30"
+  },
+  {
+    "file": "11_detail_camping_scene.jpg",
+    "width": 1940,
+    "height": 1200,
+    "sha256": "a73daea20fe35d80cf52d190f3d076477d3fc4d371112997f4af62463e489ebe"
+  },
+  {
+    "file": "12_detail_contents.jpg",
+    "width": 1940,
+    "height": 1200,
+    "sha256": "952abb3ae0260a010fb4d75b6e8b74af64788d731c82c88e9508235d6d0b3804"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "file": "01_main_white.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "30e403b79b00460b77b1a89129d79482bd714a5a5c624cde574e8baeb94e6213"
+  },
+  {
+    "file": "02_listing.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "fcc17cb96fdd641ad652d213212f6d81e95de35f3182d80d5f7c1bf80ffa0c0f"
+  },
+  {
+    "file": "03_listing.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "a32e8b12e5161f27de05c69c503950ebc217605e41d3832115a30e0b536ee612"
+  },
+  {
+    "file": "04_listing.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "6fc34b98d3c2d034c4dddbabb149373c19dfc37bab13396f51c84efafd30c7c9"
+  },
+  {
+    "file": "05_listing.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "6de5bb3bba5339a68e54a2ba3aeee7ca1248453dab8a2af08c2599d41f443b40"
+  },
+  {
+    "file": "06_listing.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "e93414fc0644a339c77683eab099b3be7a8571bdac2c42b48b9230dc12938860"
+  },
+  {
+    "file": "07_listing.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "7893d89fef7e34126fb41b44880db5006cb5afefd285d77696dac3dce8fb48ec"
+  },
+  {
+    "file": "08_detail.jpg",
+    "width": 1940,
+    "height": 1200,
+    "sha256": "bd89f8d2876b0a833705305cce2b4ba128fd0db88960d04699243c60805a2529"
+  },
+  {
+    "file": "09_detail.jpg",
+    "width": 1940,
+    "height": 1200,
+    "sha256": "1e183313528538e89ab698b739ee94fc0afc26e91233dd73240d9330a8196fcf"
+  },
+  {
+    "file": "10_detail.jpg",
+    "width": 1940,
+    "height": 1200,
+    "sha256": "fd2b0ddcaf6cdef90635e1658b958085b85b2baa8f279d253d3120dee70b5db7"
+  },
+  {
+    "file": "11_detail.jpg",
+    "width": 1940,
+    "height": 1200,
+    "sha256": "6af4ed873a67c14a9c65dc1fd179ac2c82689544b9206790f3b0f1752b8c7923"
+  },
+  {
+    "file": "12_detail.jpg",
+    "width": 1940,
+    "height": 1200,
+    "sha256": "8f249eb50c89a962265c7f43943f9247488318957c7ab8e2686fbd7c62c6cf16"
+  }
+]

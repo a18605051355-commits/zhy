@@ -1,6 +1,6 @@
 # 门闩开槽夹具 V2 — 白底实物版
 
-**当前推荐版本。产品以卖家白底实物图及 1688 同款供货照片为准。**
+**历史 V2 白底版。最新要求已在 [V3 全套生活场景版](../door-latch-kit-v3-lifestyle/) 完成。**
 
 - [下载完整 V2 素材包 ZIP](Amazon_AU_Door_Latch_Assets_V2.zip)（打开后点击 Download raw file）
 - [查看白底主图](images/01_main_white_actual_kit.jpg)

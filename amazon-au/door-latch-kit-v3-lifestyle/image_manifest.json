@@ -1,0 +1,154 @@
+[
+  {
+    "file": "images/01_lifestyle_hero.jpg",
+    "role": "lifestyle_listing",
+    "width": 2000,
+    "height": 2000,
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "sha256": "fdf35ac045b22eaa89194c388981a38f87aef41d479be7f8ba1a781591efb2c7"
+  },
+  {
+    "file": "images/02_home_doorway_project.jpg",
+    "role": "lifestyle_listing",
+    "width": 2000,
+    "height": 2000,
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "sha256": "db213a2a5d85aef3d430b26737989f92db7355fdf333ee75366c414896c8389d"
+  },
+  {
+    "file": "images/03_workshop_aluminium_body.jpg",
+    "role": "lifestyle_listing",
+    "width": 2000,
+    "height": 2000,
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "sha256": "ec776b8991df9af314c5e99cb1f014f3f52995b13c718ba8e413b7432a636a00"
+  },
+  {
+    "file": "images/04_home_clamp_detail.jpg",
+    "role": "lifestyle_listing",
+    "width": 2000,
+    "height": 2000,
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "sha256": "d44482ef458485c960311b7b9a7786f2bac51d3b5abe5eaa7fb81560ea31e75c"
+  },
+  {
+    "file": "images/05_workshop_routing_guide.jpg",
+    "role": "lifestyle_listing",
+    "width": 2000,
+    "height": 2000,
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "sha256": "ab253dd603061f4893bf6be0396f97dc2eb442e726683db3ca5b8ff8a8f5b935"
+  },
+  {
+    "file": "images/06_home_five_piece_kit.jpg",
+    "role": "lifestyle_listing",
+    "width": 2000,
+    "height": 2000,
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "sha256": "076fee6da5b35a17064e22c8ff5f6ea52f2293579f44e5918850c31dbc0ab281"
+  },
+  {
+    "file": "images/07_door_project_dimensions.jpg",
+    "role": "lifestyle_listing",
+    "width": 2000,
+    "height": 2000,
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "sha256": "c3f5ff608cc3359f364c08d123fbc3e04277db890cd457479f26fe8a3fb1b7b5"
+  },
+  {
+    "file": "images/08_detail_hallway_project.jpg",
+    "role": "lifestyle_detail",
+    "width": 1940,
+    "height": 1200,
+    "source_generated_size": [
+      1595,
+      986
+    ],
+    "mode": "RGB",
+    "sha256": "ce3e8f4a596991310614f119b44929995f11289a0cc359a9c0fb80815af8636a"
+  },
+  {
+    "file": "images/09_detail_workshop_build.jpg",
+    "role": "lifestyle_detail",
+    "width": 1940,
+    "height": 1200,
+    "source_generated_size": [
+      1595,
+      986
+    ],
+    "mode": "RGB",
+    "sha256": "027515fab44f4109054a44786de0cdc6f3fc783666d3bae61a7935f1177d29a5"
+  },
+  {
+    "file": "images/10_detail_doorway_compatibility.jpg",
+    "role": "lifestyle_detail",
+    "width": 1940,
+    "height": 1200,
+    "source_generated_size": [
+      1595,
+      986
+    ],
+    "mode": "RGB",
+    "sha256": "b9b6b3d5eb7efb688f918f2a7da27bd846a0540787ed672ec01e6152d480d1df"
+  },
+  {
+    "file": "images/11_detail_workbench_accessories.jpg",
+    "role": "lifestyle_detail",
+    "width": 1940,
+    "height": 1200,
+    "source_generated_size": [
+      1595,
+      986
+    ],
+    "mode": "RGB",
+    "sha256": "41d901756cb5f26d4e6c79046f58c057b8eee87d298bcca0c08a160f3fccc18a"
+  },
+  {
+    "file": "images/12_detail_home_setup_checks.jpg",
+    "role": "lifestyle_detail",
+    "width": 1940,
+    "height": 1200,
+    "source_generated_size": [
+      1594,
+      986
+    ],
+    "mode": "RGB",
+    "sha256": "a537fbae3a411e9fdb24ba8faf17f7e68bd2687b1a19dc16be301d057a440e2c"
+  },
+  {
+    "file": "backup_white_main/amazon_main_white_backup.jpg",
+    "role": "extra_white_main_backup_not_in_12_lifestyle_images",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "sha256": "9c7b73c1db45a7075cb1174ccf1ce63a3eef4be9256dd62b718304912788cdcb"
+  }
+]

@@ -1,4 +1,4 @@
-> 此目录为旧版 V1，保留作历史对比。请使用[以白底实物图和 1688 为准的新版 V2](../door-latch-kit-v2-supplier-photo/)。
+> 此目录为旧版 V1，保留作历史对比。请使用[产品以实物为准的新版 V3 生活场景版](../door-latch-kit-v3-lifestyle/)。
 
 # Amazon AU — Door Latch Mortise Jig 素材
 

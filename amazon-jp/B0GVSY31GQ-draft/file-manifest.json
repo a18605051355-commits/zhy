@@ -1,0 +1,98 @@
+[
+  {
+    "file": "01_main_white.jpg",
+    "width": 2000,
+    "height": 2000,
+    "source_width": 1254,
+    "source_height": 1254,
+    "sha256": "19a38403aedaee814e6b3c99e02b8071be52d8c65bfc11afa6a5f4d82e6d4bdf"
+  },
+  {
+    "file": "02_dial_detail.jpg",
+    "width": 2000,
+    "height": 2000,
+    "source_width": 1254,
+    "source_height": 1254,
+    "sha256": "d21097b8f91d64e33b86d2f64c7050877c6ef3384efba2133cc2b09c5d792ae5"
+  },
+  {
+    "file": "03_highcut_collar.jpg",
+    "width": 2000,
+    "height": 2000,
+    "source_width": 1254,
+    "source_height": 1254,
+    "sha256": "e0a6da60b5aa23c9ebc213d83116a85ec9cae5e8bdc90d78dfd94dc1955b5302"
+  },
+  {
+    "file": "04_sole_edge.jpg",
+    "width": 2000,
+    "height": 2000,
+    "source_width": 1254,
+    "source_height": 1254,
+    "sha256": "7159194eb355478c0e6885120f8e34867bdf2eba3a01df5f974781eb5c01dc58"
+  },
+  {
+    "file": "05_color_details.jpg",
+    "width": 2000,
+    "height": 2000,
+    "source_width": 1254,
+    "source_height": 1254,
+    "sha256": "3b7541bd970c85f314513679438822643fc0c7e336d74495b22985fe8c584dd1"
+  },
+  {
+    "file": "06_japanese_model.jpg",
+    "width": 2000,
+    "height": 2000,
+    "source_width": 1254,
+    "source_height": 1254,
+    "sha256": "f0036984bdfb46bb55f53f47bc3dc373007feb0347457d72ff7c6896c0ce2194"
+  },
+  {
+    "file": "07_wearing_effect.jpg",
+    "width": 2000,
+    "height": 2000,
+    "source_width": 1254,
+    "source_height": 1254,
+    "sha256": "2258b69ec4801149231855d4b6dea32b67c7754e06bfd7e85b0c78b68f279a1b"
+  },
+  {
+    "file": "08_detail_hero.jpg",
+    "width": 1940,
+    "height": 1200,
+    "source_width": 1594,
+    "source_height": 987,
+    "sha256": "9a7cb939a932adbc1c13ea32b8a9c7c0ed6309ab271ae86099da52d777ea567d"
+  },
+  {
+    "file": "09_detail_fit.jpg",
+    "width": 1940,
+    "height": 1200,
+    "source_width": 1594,
+    "source_height": 987,
+    "sha256": "4c72863899ca0ea33616d0597752ad21a7728c2182cefb54420a797dcdab1d35"
+  },
+  {
+    "file": "10_detail_silhouette.jpg",
+    "width": 1940,
+    "height": 1200,
+    "source_width": 1594,
+    "source_height": 986,
+    "sha256": "5ef6bbf57f2bb8d50ebd59303f73107ea3ca3d46b34384a92b13a22c8d4a54c8"
+  },
+  {
+    "file": "11_detail_textures.jpg",
+    "width": 1940,
+    "height": 1200,
+    "source_width": 1594,
+    "source_height": 987,
+    "sha256": "cb53a5731dc85676d8b9671ffbf36f7a8a9cd4f0de6f32f40715d0432dec25e2"
+  },
+  {
+    "file": "12_detail_lifestyle.jpg",
+    "width": 1940,
+    "height": 1200,
+    "source_width": 1594,
+    "source_height": 987,
+    "sha256": "d27c23552a1ee7ba820f21a945592ccbe24be34df7b96b8e7952e24e8cd437e9"
+  }
+]

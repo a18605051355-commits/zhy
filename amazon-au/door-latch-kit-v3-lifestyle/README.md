@@ -1,6 +1,6 @@
 # 门闩开槽夹具 V3 — 全套生活场景背景版
 
-**当前推荐版本：12 张展示图全部采用与木门安装相关的写实生活场景。**
+**历史 V3。最新 [V4 不同场景与视角版](../door-latch-kit-v4-varied-angles/) 已拉开镜头角度及构图。**
 
 - [下载完整 V3 素材包 ZIP](Amazon_AU_Door_Latch_Assets_V3_Lifestyle.zip)（打开后点击 Download raw file）
 - [查看 12 张生活场景图总览](All_12_Lifestyle_Images_Preview_V3.jpg)

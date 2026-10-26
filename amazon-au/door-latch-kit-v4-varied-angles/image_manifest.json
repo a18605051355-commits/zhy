@@ -1,0 +1,154 @@
+[
+  {
+    "file": "images/01_low_front_hero.jpg",
+    "role": "lifestyle_listing",
+    "width": 2000,
+    "height": 2000,
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "sha256": "b4ada6d94be1689e0a956a77162441b85e858fa436511706c881444f2bdcb3a1"
+  },
+  {
+    "file": "images/02_door_on_trestles.jpg",
+    "role": "lifestyle_listing",
+    "width": 2000,
+    "height": 2000,
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "sha256": "3fcc9a4cf0fca16754a6324c3240f8c1f51b587d13a493040ca62e2f8f073d48"
+  },
+  {
+    "file": "images/03_top_plate_macro.jpg",
+    "role": "lifestyle_listing",
+    "width": 2000,
+    "height": 2000,
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "sha256": "a56323aa86be9143d1e6aa7fe66417059f4206d4e7c1fa51a377b57730d9f977"
+  },
+  {
+    "file": "images/04_knob_front_macro.jpg",
+    "role": "lifestyle_listing",
+    "width": 2000,
+    "height": 2000,
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "sha256": "7b877d99ab73b0de6a52705986e08f6d0fa363c7d2cd7eabd3a0c1db6624ab65"
+  },
+  {
+    "file": "images/05_overhead_routing_aperture.jpg",
+    "role": "lifestyle_listing",
+    "width": 2000,
+    "height": 2000,
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "sha256": "d00519234124eeb5705343c58a7a0353438709562cd4bb8b5dbc107dd31f2996"
+  },
+  {
+    "file": "images/06_tool_roll_flatlay.jpg",
+    "role": "lifestyle_listing",
+    "width": 2000,
+    "height": 2000,
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "sha256": "47305be9b1cfbf0f396f7963c89a4fb9ff89f4da0b01fde489c6e2301c62d808"
+  },
+  {
+    "file": "images/07_front_dimensions.jpg",
+    "role": "lifestyle_listing",
+    "width": 2000,
+    "height": 2000,
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "sha256": "0bc00c216a601da08a913dc6ebbfb13e0eb20caf28a0654b3b75c71cc265b9c0"
+  },
+  {
+    "file": "images/08_hallway_wide_scene.jpg",
+    "role": "lifestyle_detail",
+    "width": 1940,
+    "height": 1200,
+    "source_generated_size": [
+      1594,
+      986
+    ],
+    "mode": "RGB",
+    "sha256": "f57984b9cc586555b010913c6fc3d1ea4b7dff752d8c1b55ffeff799f486e504"
+  },
+  {
+    "file": "images/09_side_profile_detail.jpg",
+    "role": "lifestyle_detail",
+    "width": 1940,
+    "height": 1200,
+    "source_generated_size": [
+      1594,
+      987
+    ],
+    "mode": "RGB",
+    "sha256": "bd22b460cad47b3f49a776aa3952ceee8c4218d2b78c9b4dceb7071b449739d8"
+  },
+  {
+    "file": "images/10_bedroom_door_compatibility.jpg",
+    "role": "lifestyle_detail",
+    "width": 1940,
+    "height": 1200,
+    "source_generated_size": [
+      1593,
+      987
+    ],
+    "mode": "RGB",
+    "sha256": "3437be1f40c1cc28886dd5a7d5b40a2932791fc37c387d8ef9a89e163f2b2718"
+  },
+  {
+    "file": "images/11_accessory_low_profile.jpg",
+    "role": "lifestyle_detail",
+    "width": 1940,
+    "height": 1200,
+    "source_generated_size": [
+      1593,
+      987
+    ],
+    "mode": "RGB",
+    "sha256": "096144b9d95bc03293935c368c218bff44aad2792232a48c9213549cc59235ba"
+  },
+  {
+    "file": "images/12_hands_setup_check.jpg",
+    "role": "lifestyle_detail",
+    "width": 1940,
+    "height": 1200,
+    "source_generated_size": [
+      1594,
+      987
+    ],
+    "mode": "RGB",
+    "sha256": "4105b13af14325921d7fa1e1890997e3002bc32bb1a5d02e62a3d49e741555c2"
+  },
+  {
+    "file": "backup_white_main/amazon_main_white_backup.jpg",
+    "role": "extra_white_main_backup_not_in_12_lifestyle_images",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "sha256": "9c7b73c1db45a7075cb1174ccf1ce63a3eef4be9256dd62b718304912788cdcb"
+  }
+]

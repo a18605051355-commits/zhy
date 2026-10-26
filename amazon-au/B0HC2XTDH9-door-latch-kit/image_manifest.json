@@ -1,0 +1,146 @@
+[
+  {
+    "filename": "01_main_white.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "bytes": 588339,
+    "sha256": "4eddeede8bdcdef1cdb311f922e74e5b1a89b83338e1e4b7eb8d284432121da4"
+  },
+  {
+    "filename": "02_latch_recess.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "bytes": 1305309,
+    "sha256": "4275ea6e6aaff485556f2c8b3425328cae564aed24992aea1842c815011309ac"
+  },
+  {
+    "filename": "03_aluminium_body.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "bytes": 1336388,
+    "sha256": "0a10aa80e2f30e8652e55599504abb79d6bc51815c5d6e9f6e470fec37b3b924"
+  },
+  {
+    "filename": "04_door_compatibility.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "bytes": 1298274,
+    "sha256": "5e553eae250c37bd2e0ab9a87df1e31c29f9baa150ca9afefb759f881c8d0957"
+  },
+  {
+    "filename": "05_depth_references.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "bytes": 1218068,
+    "sha256": "d76deaf61d7cb192b8998de75c2b783570c93eab751e4ad1726fdc45f941588a"
+  },
+  {
+    "filename": "06_kit_contents.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "bytes": 1266981,
+    "sha256": "e6acfa7832c3986a7d2ce88ad01f42f677628b654a8973ceac0d64226aa6811e"
+  },
+  {
+    "filename": "07_body_dimensions.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "source_generated_size": [
+      1254,
+      1254
+    ],
+    "bytes": 1191639,
+    "sha256": "d06d4ce75d4c213acf59381ab96ded7db588f32f33d2eb0de422682d691bc838"
+  },
+  {
+    "filename": "08_detail_hero.jpg",
+    "width": 1940,
+    "height": 1200,
+    "mode": "RGB",
+    "source_generated_size": [
+      1592,
+      988
+    ],
+    "bytes": 855413,
+    "sha256": "5fdfc03333dc75907605bcf3a8fed19d9c888dec832ba93d77cdc0d973e96923"
+  },
+  {
+    "filename": "09_detail_material.jpg",
+    "width": 1940,
+    "height": 1200,
+    "mode": "RGB",
+    "source_generated_size": [
+      1593,
+      987
+    ],
+    "bytes": 755858,
+    "sha256": "b05f8739dec87a673a9318572b0a45b07113e3becc9f09f7f78dd62cee21ecbe"
+  },
+  {
+    "filename": "10_detail_compatibility.jpg",
+    "width": 1940,
+    "height": 1200,
+    "mode": "RGB",
+    "source_generated_size": [
+      1594,
+      987
+    ],
+    "bytes": 798484,
+    "sha256": "fc79f51e1000f74ce0c1aa9a61b0d86da179487803d91a2bf3f5b05f61fb4b5d"
+  },
+  {
+    "filename": "11_detail_kit.jpg",
+    "width": 1940,
+    "height": 1200,
+    "mode": "RGB",
+    "source_generated_size": [
+      1593,
+      987
+    ],
+    "bytes": 744480,
+    "sha256": "81a74880162ef80bed92e4024b13a34a94e2a48cd20aa0c5441febf7a1303308"
+  },
+  {
+    "filename": "12_detail_workflow.jpg",
+    "width": 1940,
+    "height": 1200,
+    "mode": "RGB",
+    "source_generated_size": [
+      1592,
+      988
+    ],
+    "bytes": 845478,
+    "sha256": "45c936f2ea641fc7aaddf56360a423287c0f0fb305a097cc5ba548f8179c0e57"
+  }
+]

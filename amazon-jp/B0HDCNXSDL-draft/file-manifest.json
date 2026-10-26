@@ -1,0 +1,98 @@
+[
+  {
+    "file": "01_main_white.jpg",
+    "width": 2000,
+    "height": 2000,
+    "source_width": 1254,
+    "source_height": 1254,
+    "sha256": "ee2e2bb713666f06ba4e737993239e5502da2953b9aef1233560b442686ce7bd"
+  },
+  {
+    "file": "02_set_overview.jpg",
+    "width": 2000,
+    "height": 2000,
+    "source_width": 1254,
+    "source_height": 1254,
+    "sha256": "1afe2f311880916b2e8b3ef3edf501da66b6389504706e1bdb87a3cddeac13b5"
+  },
+  {
+    "file": "03_sprocket_holder.jpg",
+    "width": 2000,
+    "height": 2000,
+    "source_width": 1254,
+    "source_height": 1254,
+    "sha256": "ebb79e83e492b8894c53bcd2ad5cdf38cacce74890d53b3c7fd87b5a2f01785d"
+  },
+  {
+    "file": "04_chain_tools.jpg",
+    "width": 2000,
+    "height": 2000,
+    "source_width": 1254,
+    "source_height": 1254,
+    "sha256": "a6e8d8f2f940c182a44718481598a2c357b055a1c387a52b4cbfaf794d07fd2f"
+  },
+  {
+    "file": "05_crank_bb_tools.jpg",
+    "width": 2000,
+    "height": 2000,
+    "source_width": 1254,
+    "source_height": 1254,
+    "sha256": "fd2fadfed073ca09c1f56923b07b48df29009b691eccef31a374c1565f5f79d4"
+  },
+  {
+    "file": "06_japanese_workshop.jpg",
+    "width": 2000,
+    "height": 2000,
+    "source_width": 1254,
+    "source_height": 1254,
+    "sha256": "eb574dfc9ea74c376e32315b01e896033e7effb1cd55d290866d3bdb4878d177"
+  },
+  {
+    "file": "07_reference_sizes.jpg",
+    "width": 2000,
+    "height": 2000,
+    "source_width": 1254,
+    "source_height": 1254,
+    "sha256": "8f7dba3dc219663732751cc4fe2c1185f649af6b2cafed34b79757d869030c6e"
+  },
+  {
+    "file": "08_detail_hero.jpg",
+    "width": 1940,
+    "height": 1200,
+    "source_width": 1593,
+    "source_height": 987,
+    "sha256": "dd8d69b1620230a25d495da95f104018ce62a3f4a7b044cf84d59e933d6697b1"
+  },
+  {
+    "file": "09_detail_sprocket.jpg",
+    "width": 1940,
+    "height": 1200,
+    "source_width": 1594,
+    "source_height": 987,
+    "sha256": "eda48792e53482f8e5fbd21e03512db50556d6d8c5bf9b1ab6ebc934e1cbdec1"
+  },
+  {
+    "file": "10_detail_chain.jpg",
+    "width": 1940,
+    "height": 1200,
+    "source_width": 1594,
+    "source_height": 987,
+    "sha256": "7d09a273f656d3dfb15cef9ce942633006652d1b82a88cc11e2bf1452adbf904"
+  },
+  {
+    "file": "11_detail_hardware.jpg",
+    "width": 1940,
+    "height": 1200,
+    "source_width": 1594,
+    "source_height": 987,
+    "sha256": "a8551e3a3654fb1903d1db17d2eb1437ba3284ee47ad61a1f8b810d36e1fd5e7"
+  },
+  {
+    "file": "12_detail_preparation.jpg",
+    "width": 1940,
+    "height": 1200,
+    "source_width": 1594,
+    "source_height": 987,
+    "sha256": "719026d3b0f52c11d07257f277b42968e32cf360de9dd897fa1f0e832aedb016"
+  }
+]

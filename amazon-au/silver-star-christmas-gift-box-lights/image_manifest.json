@@ -1,0 +1,86 @@
+[
+  {
+    "file": "images/01_main_white_silver_star.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "sha256": "c43acf4f5a1ea11fad48af23916a8b88581771a42ab28208fcbfad8ca9a406b2"
+  },
+  {
+    "file": "images/02_mantel_glow.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "sha256": "5567d8b3a54cc8f9a25c0ba2f3c4afa0d99cefb109a5226b68866be9dca19fcd"
+  },
+  {
+    "file": "images/03_porch_warm_light.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "sha256": "e77558f2b6df8433eb4a40ccf1853cee030609e70c30a64467c77fcb7f73d84d"
+  },
+  {
+    "file": "images/04_star_pattern_macro.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "sha256": "633659df7fa0cd3d6a10e237146afa362382a5c66b30dfae896904851f9629c1"
+  },
+  {
+    "file": "images/05_dining_centrepiece.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "sha256": "fc01cffc7af519b8412c927dcfa7b6d9d69e18ff732b1a55084520e6349d49a3"
+  },
+  {
+    "file": "images/06_entryway_display.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "sha256": "bae3d2b81b263fd8d5953eba0ab47e80e60ac50a4f8cef1680109a852611823c"
+  },
+  {
+    "file": "images/07_reading_nook_dimensions.jpg",
+    "width": 2000,
+    "height": 2000,
+    "mode": "RGB",
+    "sha256": "f3fc66644d6287eb4b00c8a151476b28d6ee93b00ce294d0a55e4a42c4fccfe2"
+  },
+  {
+    "file": "images/08_fireplace_magic.jpg",
+    "width": 1940,
+    "height": 1200,
+    "mode": "RGB",
+    "sha256": "588818dcb4eb15466b6d951082e083a038479173411e5185fb6af1acad0cc06d"
+  },
+  {
+    "file": "images/09_sideboard_star_glow.jpg",
+    "width": 1940,
+    "height": 1200,
+    "mode": "RGB",
+    "sha256": "ca2e8957347d957f39933ab968aa20e7c760eb0cffad60a6a1557277d984676a"
+  },
+  {
+    "file": "images/10_dining_flexible_display.jpg",
+    "width": 1940,
+    "height": 1200,
+    "mode": "RGB",
+    "sha256": "c2838e8991453d913c86d55fd166948e5cfe5b9976d71eecff2a83c9deb9aad2"
+  },
+  {
+    "file": "images/11_covered_porch_welcome.jpg",
+    "width": 1940,
+    "height": 1200,
+    "mode": "RGB",
+    "sha256": "098646025267b9600a81d7a87740754ad92b276d630a4cf5ebfafe3a8e908bca"
+  },
+  {
+    "file": "images/12_reading_nook_setup.jpg",
+    "width": 1940,
+    "height": 1200,
+    "mode": "RGB",
+    "sha256": "e3201d4f0e0d23b5e7cb774a391f86386974074aa61e1857b1d6bbf494cec913"
+  }
+]

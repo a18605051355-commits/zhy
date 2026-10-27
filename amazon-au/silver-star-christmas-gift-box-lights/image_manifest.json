@@ -4,83 +4,83 @@
     "width": 2000,
     "height": 2000,
     "mode": "RGB",
-    "sha256": "c43acf4f5a1ea11fad48af23916a8b88581771a42ab28208fcbfad8ca9a406b2"
+    "sha256": "c4a3f12972feddac05cf90638ff2a7de93d8a61af3758893b967de58be068964"
   },
   {
     "file": "images/02_mantel_glow.jpg",
     "width": 2000,
     "height": 2000,
     "mode": "RGB",
-    "sha256": "5567d8b3a54cc8f9a25c0ba2f3c4afa0d99cefb109a5226b68866be9dca19fcd"
+    "sha256": "3a5062f9c72f32ba7df76f70f1df5b8f74d1c321038a19ef6cd8488d6a4eeae1"
   },
   {
     "file": "images/03_porch_warm_light.jpg",
     "width": 2000,
     "height": 2000,
     "mode": "RGB",
-    "sha256": "e77558f2b6df8433eb4a40ccf1853cee030609e70c30a64467c77fcb7f73d84d"
+    "sha256": "09acc30a32b8a473ab06522eacc4216927d08bf40f6c3ad022d2dcb0a989077c"
   },
   {
     "file": "images/04_star_pattern_macro.jpg",
     "width": 2000,
     "height": 2000,
     "mode": "RGB",
-    "sha256": "633659df7fa0cd3d6a10e237146afa362382a5c66b30dfae896904851f9629c1"
+    "sha256": "a0e01aacaab46d4536a8023904cc40a6e70b40abf736c22215e81687b21c4fd3"
   },
   {
     "file": "images/05_dining_centrepiece.jpg",
     "width": 2000,
     "height": 2000,
     "mode": "RGB",
-    "sha256": "fc01cffc7af519b8412c927dcfa7b6d9d69e18ff732b1a55084520e6349d49a3"
+    "sha256": "6df9ad3c4bd02ea50c17b2afa4e477a14c714c3eef5ca23e54c61f4afabad956"
   },
   {
     "file": "images/06_entryway_display.jpg",
     "width": 2000,
     "height": 2000,
     "mode": "RGB",
-    "sha256": "bae3d2b81b263fd8d5953eba0ab47e80e60ac50a4f8cef1680109a852611823c"
+    "sha256": "5374d0d391515c1e1f577661969848b3ff4b329b3db5e4181db1c531b5d9edee"
   },
   {
     "file": "images/07_reading_nook_dimensions.jpg",
     "width": 2000,
     "height": 2000,
     "mode": "RGB",
-    "sha256": "f3fc66644d6287eb4b00c8a151476b28d6ee93b00ce294d0a55e4a42c4fccfe2"
+    "sha256": "8a67ba3e26815db2f172606506dcfe45190d509b4c69f52e2a79d46fff8edeb3"
   },
   {
     "file": "images/08_fireplace_magic.jpg",
     "width": 970,
     "height": 600,
     "mode": "RGB",
-    "sha256": "80a1351844bdaa504e56c28b08db28eb799c955900d1a932c93a8451840f8a0c"
+    "sha256": "b126fa0ed316d1eb00e158a773f74ff24cb496fedebfa7a0a9d1ac46efed7473"
   },
   {
     "file": "images/09_sideboard_star_glow.jpg",
     "width": 970,
     "height": 600,
     "mode": "RGB",
-    "sha256": "b021545765ead9ad03f70314ee048aec1efacad7cca57ed1a58260f951d7e7c9"
+    "sha256": "d9e57b5615b869e64fd4039a516d8bd2f87f603aed890a5bf309cb4c0b8a353e"
   },
   {
     "file": "images/10_dining_flexible_display.jpg",
     "width": 970,
     "height": 600,
     "mode": "RGB",
-    "sha256": "b2b27ded98fb94f7836914c0aac95caa4be3108514d8a7282779c7d9a3142895"
+    "sha256": "2ff5358331c0bf90e12b1678003568734c3f2176164507ba38a6d288a0009a55"
   },
   {
     "file": "images/11_covered_porch_welcome.jpg",
     "width": 970,
     "height": 600,
     "mode": "RGB",
-    "sha256": "beff12ab0cf60816f9c2f4b9c9926e883314eb40135924905ee3eb3b072cca2d"
+    "sha256": "54539aaa4b6221b5bed94955428750c835e33fa14fb9aada72e8f1fd738e3ed0"
   },
   {
     "file": "images/12_reading_nook_setup.jpg",
     "width": 970,
     "height": 600,
     "mode": "RGB",
-    "sha256": "4923333c6d8689f1f72e341ea8de2d3f0d1f53adc4f57e46559cc4f313686e05"
+    "sha256": "9591b6892ccdd7b289b1e9ba76b01599c0fb474226a11ca018d956eea0cfc18f"
   }
 ]

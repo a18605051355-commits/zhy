@@ -1,0 +1,74 @@
+[
+  {
+    "file": "01_main_white.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "59daf80386124db57fbe67b9d49011dc9dd866fce53ca2b7d7de75deb892fd61"
+  },
+  {
+    "file": "02_desktop_lifestyle.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "52212daa3dd28d44893d69f7aeaeb293627694f59bb684563709c3cfc1cb08d8"
+  },
+  {
+    "file": "03_front_detail.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "2f99706b726b240ff012dc2f74ce788885598a4267dc6e4f81a8ea4db4cc05ed"
+  },
+  {
+    "file": "04_furry_ring_detail.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "452073dea0c72ac6b3a0aedc884e3c7e805d12cbca1152ca2551be30bb49a456"
+  },
+  {
+    "file": "05_color_variants.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "b0e0842c4661a9875eecec7dbca852f3bfe0005f2e5804127267b822a52a62e5"
+  },
+  {
+    "file": "06_bag_model.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "62327914580d728161c7ed47f0fb31de3ec1ce60d85f5159241c4b589350eef1"
+  },
+  {
+    "file": "07_backpack_wearing.jpg",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "9a1aa7d88a9aeb8a3a880ab73218731b8f4e999ab4b45977bdc22a4d9eb83e8c"
+  },
+  {
+    "file": "08_detail_hero.jpg",
+    "width": 1940,
+    "height": 1200,
+    "sha256": "efb572f5b7e6934db6dbd06a55fd0a0c2323b48f9ebc6b5b09a8a1faf325c420"
+  },
+  {
+    "file": "09_detail_features.jpg",
+    "width": 1940,
+    "height": 1200,
+    "sha256": "bee5024ad22b66edf124654fdb9d4ac24a6448e248b789b30b44efa62cc5963d"
+  },
+  {
+    "file": "10_detail_colors.jpg",
+    "width": 1940,
+    "height": 1200,
+    "sha256": "b63dadb49eb7fd15b0d02e6d6d8d0d1f37480b1ba453fb961a8090f8755dadc3"
+  },
+  {
+    "file": "11_detail_carrying.jpg",
+    "width": 1940,
+    "height": 1200,
+    "sha256": "ee6b21e01a511607b4b1098c7709527e632127b11266d80f2c793934ff94bbd8"
+  },
+  {
+    "file": "12_detail_gift.jpg",
+    "width": 1940,
+    "height": 1200,
+    "sha256": "4858366cacbd1e9a85afa3a448a08392bc904fcfcd5a2791f0d49bd58a4eea2c"
+  }
+]
